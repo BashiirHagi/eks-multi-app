@@ -1,1 +1,1 @@
-# eks-multi-app
+# EKS Terraform Deployment with GitHub Actions Pipeline
